@@ -1,0 +1,15 @@
+<RCC>
+    <qresource prefix="/">
+        <file>main.qml</file>
+        <file>HomeWindow.qml</file>
+        <file>SettingsWindow.qml</file>
+        <file>assets/copyIcon.png</file>
+        <file>assets/scanIcon.png</file>
+        <file>assets/memoryIcon.png</file>
+        <file>assets/settingIcon.png</file>
+        <file>assets/muteIcon.png</file>
+        <file>assets/volumeIcon.png</file>
+        <file>assets/wifiOffIcon.png</file>
+        <file>assets/wifiOnIcon.png</file>
+    </qresource>
+</RCC>
